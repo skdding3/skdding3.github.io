@@ -28,3 +28,5 @@ print (new_fruits)
 
     ['apple', 'banana', 'orange', 'melon']
     
+
+위와 같이 같은 결과를 낼 수 있음.
